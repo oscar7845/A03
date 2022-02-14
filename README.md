@@ -1,5 +1,5 @@
-# Introduction to Github and Webstorm
-Directions on using GitHub and Webstorm
+# Introduction to Git, GitHub and Webstorm
+Directions on using Git, GitHub and Webstorm
 
 Task - Install Webstorm and Git
 
@@ -11,7 +11,7 @@ Task – Create a repository
 
 Task - Create a Repository from Webstorm
 
-Task - Import a Repository from Github
+Task - Import a Repository from GitHub
 
 Task – Add and commit file(s)
 
