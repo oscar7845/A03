@@ -3,29 +3,34 @@ Directions on using Git, GitHub and Webstorm
 
 Task – Install Webstorm and Git
 
+process: Install Git and Webstorm on your computer from the official website.
+
 Task – Create a GitHub account
+
+process: Create a GitHub account on their website.
 
 Task – Connect GitHub with Webstorm
 
-Task – Create a repository
+process: In Webstorm press (Ctrl+Alt+S) for system preferences. Select Version control Git and enter the path to the
+git.exe
 
-Feature:
+Task – Create a repository 
 
-Task – Create a Repository from Webstorm
-
-Feature:  added workflow for using GitHub
+process: Choose "New repository". Give your repo a name then scroll down and click on "Create repository"
 
 Task – Import a Repository from GitHub
 
-Feature:
+process: From Main page Select Checkout from version control Git  OR  From within Webstorm Select VCS  Checkout
+from version control Git.  Enter GitHub repository name and enter local path name.
 
 Task – Add and commit file(s)
 
-Feature: 
+process: The Add to Git dialog opens. Click Add. This adds to local file system .
 
 Task – Push the repository to GitHub
 
-Feature:  
+process: Click “Ctrl Shift  K” Or “VCS  Git  Push”
+
 
 
 **Branch** :
