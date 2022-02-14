@@ -1,21 +1,31 @@
 # Introduction to Git, GitHub and Webstorm
 Directions on using Git, GitHub and Webstorm
 
-Task - Install Webstorm and Git
+Task – Install Webstorm and Git
 
 Task – Create a GitHub account
 
-Task - Connect GitHub with Webstorm
+Task – Connect GitHub with Webstorm
 
 Task – Create a repository
 
-Task - Create a Repository from Webstorm
+Feature:
 
-Task - Import a Repository from GitHub
+Task – Create a Repository from Webstorm
+
+Feature:  added workflow for using GitHub
+
+Task – Import a Repository from GitHub
+
+Feature:
 
 Task – Add and commit file(s)
 
+Feature: 
+
 Task – Push the repository to GitHub
+
+Feature:  
 
 
 **Branch** :
